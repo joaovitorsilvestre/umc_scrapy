@@ -8,4 +8,5 @@ Para utilizar chame a função Inicializar que está no Buscar_notas.py, lembran
 o rgm e a senha, ambos em formato de string.
 
 A resposta esperada deverá ser uma lista com sublistas como do exemplo a seguir:
-['12154-TÉCNICAS DE PROGRAMAÇÃO I', '1', '9.1', '7.5', '7.5', '7.5', '8', 0, 0, 0, 0, 'CURSANDO', '0']
+
+    ['12154-TÉCNICAS DE PROGRAMAÇÃO I', '1', '9.1', '7.5', '7.5', '7.5', '8', 0, 0, 0, 0, 'CURSANDO', '0']
